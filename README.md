@@ -10,7 +10,7 @@ It can also be accessed through the Timemachine on [MRAN](https://mran.microsoft
 
 This repo demonstrates how to use [Binder](https://mybinder.org/) with MRAN snapshots to access the archived version for the purposes of reproducibility. We do this by [specifying an R environment with a runtime.txt file](https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html?highlight=sample#specifying-an-r-environment-with-a-runtime-txt-file)
 
-Using the latest [R version 4.1.2](https://cran.r-project.org/src/base/R-4) released on 2021-11-01 with the last MRAN Timemachine daily snapshot of [fulltext from 2021-11-22](https://mran.microsoft.com/package/fulltext).
+Using the latest [R version 4.0.2](https://cran.r-project.org/src/base/R-4) released on 2021-11-01 with the last MRAN Timemachine daily snapshot of [fulltext from 2021-11-22](https://mran.microsoft.com/package/fulltext).
 
 ## Try it out!
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aculich/binder-rfulltext/HEAD)
